@@ -130,11 +130,11 @@ data-template="vertical-menu-template-free"
                     </g>
                 </svg>
                 </span>
-                <span class="app-brand-text demo text-body fw-bolder">GakUniq</span>
+                <span class="app-brand-text demo text-body fw-bolder">Florentis</span>
             </a>
             </div>
             <!-- /Logo -->
-            <h4 class="mb-2">Welcome to gakuniq! 👋</h4>
+            <h4 class="mb-2">Welcome to Florentis!</h4>
             <p class="mb-4">Silahkan login ke akun anda</p>
 
             <form method="POST" action="{{ route('login') }}">

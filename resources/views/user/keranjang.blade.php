@@ -30,7 +30,7 @@
                                     <label for="allCheck" class="checkbox-style-3-label checkbox-small"></label>
                                 </th>
                                 <th class=" cart-product-thumbnail">Product</th>
-                                <th class="cart-product-price">Ukuran</th>
+                                <th class="cart-product-price">Kemasan</th>
                                 <th class="cart-product-quantity">Jumlah</th>
                                 <th class="cart-product-subtotal">Total</th>
                                 <th class="cart-product-remove">&nbsp;</th>
