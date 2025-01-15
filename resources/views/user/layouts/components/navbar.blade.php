@@ -223,10 +223,8 @@
                     <div class="swiper-slide dark">
                         <div class="container">
                             <div class="slider-caption">
-                                <h2 data-animate="fadeInUp">Welcome to Gakuniq</h2>
-                                <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Solusi Belanja
-                                    online
-                                    mudah dan hemat</p>
+                                <h2 data-animate="fadeInUp">Welcome to Florentis</h2>
+                                <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Pilihan Tepat untuk Tanaman Subur dan Berkualitas.</p>
                             </div>
                         </div>
                         <div class="swiper-slide-bg"
@@ -236,7 +234,7 @@
                     <div class="swiper-slide dark">
                         <div class="container">
                             <div class="slider-caption">
-                                <h2 data-animate="fadeInUp">The art of everyday life</h2>
+                                <h2 data-animate="fadeInUp">Solusi Terbaik & Hasil Maksimal.</h2>
                                 <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Di rancang
                                     untuk
                                     membuat kehidupan lebih baik
@@ -250,8 +248,8 @@
                     <div class="swiper-slide dark">
                         <div class="container">
                             <div class="slider-caption">
-                                <h2 data-animate="fadeInUp">Gakuniq</h2>
-                                <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Pakaian
+                                <h2 data-animate="fadeInUp">Florentis</h2>
+                                <p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Pupuk
                                     berkualitas
                                     untuk orang-orang berkualitas
                             </div>

@@ -1,5 +1,5 @@
 {{-- male template --}}
-{{-- <title>Male-Fashion | Template</title>
+{{-- <title>Florentis | Template</title>
 
 <!-- Google Font -->
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800;900&display=swap"
@@ -57,6 +57,6 @@
 
 <!-- Document Title
 	============================================= -->
-<title>Canvas | The Multi-Purpose HTML5 Template</title>
+<title>Florentis</title>
 
 {{-- EndCanvas --}}
