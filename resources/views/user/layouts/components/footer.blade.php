@@ -92,7 +92,7 @@
                                 <div class="grid-inner row">
                                     <div class="col">
                                         <div class="entry-title">
-                                            <h4><a href="#">Pria</a></h4>
+                                            <h4><a href="#">Pupuk Kompos</a></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -102,7 +102,7 @@
                                 <div class="grid-inner row">
                                     <div class="col">
                                         <div class="entry-title">
-                                            <h4><a href="#">Wanita</a></h4>
+                                            <h4><a href="#">Pupuk Kandang</a></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -112,7 +112,7 @@
                                 <div class="grid-inner row">
                                     <div class="col">
                                         <div class="entry-title">
-                                            <h4><a href="#">Anak</a></h4>
+                                            <h4><a href="#">Pupuk Hayati</a></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -253,10 +253,8 @@
                                 <img src="{{ asset('images/logo.png') }}" width="200px" alt="Image" class="rounded">
                             </div>
                             <div class="col mt-3">
-                                <p>gakuniq adalah salah satu brand fashion asal <strong> indonesia</strong> yang
-                                    mengedepankan kualitas
-                                    dan
-                                    desain produknya yang cocok baik untuk kegiatan sehari-hari maupun traveling
+                                <p>Florentis adalah produsen pupuk asal Indonesia yang mengutamakan kualitas, 
+                                    menawarkan formula ramah lingkungan untuk mendukung pertumbuhan tanaman secara optimal.
                                 </p>
                                 <a href="https://www.facebook.com/dimas.ramdani.10441861" target="__blank"
                                     class="social-icon si-small si-rounded si-facebook">
@@ -313,7 +311,7 @@
 
         <div class="container text-center text-uppercase">
 
-            Copyrights &copy; 2023 by Tim Gakuniq.
+            Copyrights &copy; 2025 by Tim Florentis.
 
         </div>
 

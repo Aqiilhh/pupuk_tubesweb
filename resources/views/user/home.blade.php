@@ -12,13 +12,10 @@
 
             <div class="col-md-7 text-center text-md-start">
                 <div class="heading-block border-bottom-0">
-                    <h3>Tentang gakuniq</h3>
+                    <h3>Tentang florentis</h3>
                 </div>
-                <p class="fs-5" style="margin-top: -50px">gakuniq adalah salah satu brand fashion asal indonesia yang
-                    mengedepankan kualitas dan
-                    desain produknya yang cocok baik untuk kegiatan sehari-hari maupun traveling</p>
-                <p class="fs-5">kami berupaya menginspirasi generasi muda indonesia agar semakin mencintai budaya dan
-                    produk dalam negri </p>
+                <p class="fs-5" style="margin-top: -50px">Florentis adalah aplikasi asal Indonesia yang mendukung kelestarian lingkungan dan pertumbuhan tanaman.</p>
+                <p class="fs-5">Dengan teknologi modern, kami mendorong penggunaan pupuk alami secara efisien untuk pertanian organik dan urban farming. Mari bersama Florentis, wujudkan lingkungan yang lebih hijau dan subur!</p>
 
                 <a href="/produk" class="button button-black button-rounded button-large" style="margin-top: -100px">Belanja
                     Sekarang</a>
