@@ -22,6 +22,10 @@ class CheckOngkirController extends Controller
      */
     public function getCities($id)
     {
+
+
+
+        
         $kotas = Kota::where('provinsi_id', $id)->pluck('kota', 'kota_id');
         return response()->json($kotas);
     }
