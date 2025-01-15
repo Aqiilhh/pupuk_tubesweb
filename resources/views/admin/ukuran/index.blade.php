@@ -4,7 +4,7 @@
 
 <div class="card shadow-lg rounded card p-2">
     <div class="card-header">
-        <span class="fs-4 fw-700">Data Ukuran Produk</span>
+        <span class="fs-4 fw-700">Data Kemasan Produk</span>
         <a href="{{ route('ukuran.create') }}" class="btn btn-sm btn-primary float-end "><svg
                 xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-lg"
                 viewBox="0 0 16 16">
@@ -18,7 +18,7 @@
                 <thead>
                     <tr>
                         <th>NO</th>
-                        <th>Ukuran</th>
+                        <th>Kemasan</th>
                         <th>Actions</th>
                     </tr>
                 </thead>

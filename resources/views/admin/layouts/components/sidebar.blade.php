@@ -46,7 +46,7 @@
                     </g>
                 </svg>
             </span>
-            <span class="app-brand-text demo menu-text fw-bolder ms-2">Gakuniq</span>
+            <span class="app-brand-text demo menu-text fw-bolder ms-2">Florenis</span>
         </a>
 
         <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
@@ -104,7 +104,7 @@
         <li class="menu-item {{ Request::is('admin/ukuran*') ? 'active' : '' }}">
             <a href="/admin/ukuran" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-label"></i>
-                <div>Ukuran</div>
+                <div>Kemasan</div>
             </a>
         </li>
         {{-- EndProduk --}}
