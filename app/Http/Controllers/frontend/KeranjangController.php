@@ -41,12 +41,13 @@ class KeranjangController extends Controller
        // Validasi
     $validated = $request->validate([
         'produk_id' => 'required',
+        'ukuran' => 'required',
         'jumlah' => 'required',
     ]);
 
     $cek_keranjangs = Keranjang::where('user_id', auth()->user()->id)
         ->where('produk_id', $request->produk_id)
-        ->where('status', 'keranjang')
+        ->where('status', 'keranjang','ukuran')
         ->first();
 
     if (!empty($cek_keranjangs)) {
@@ -62,6 +63,7 @@ class KeranjangController extends Controller
         $keranjangs->jumlah = $request->jumlah;
         $diskon = (($keranjangs->produk->diskon / 100) * $keranjangs->produk->harga);
         $harga = ($keranjangs->produk->harga) - $diskon;
+        $keranjangs->ukuran = $request->ukuran;
         $keranjangs->total_harga = ($harga * $keranjangs->jumlah);
     }
 

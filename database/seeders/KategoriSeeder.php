@@ -15,16 +15,16 @@ class KategoriSeeder extends Seeder
     public function run()
     {
         Kategori::create([
-            'name' => 'PRIA',
+            'name' => 'Pupuk Organik',
         ]);
 
         Kategori::create([
-            'name' => 'WANITA',
+            'name' => 'Pupuk Anorganik',
         ]);
 
-        Kategori::create([
-            'name' => 'ANAK',
-        ]);
+        // Kategori::create([
+        //     'name' => 'ANAK',
+        // ]);
 
     }
 }

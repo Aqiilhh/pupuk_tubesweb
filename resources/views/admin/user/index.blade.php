@@ -14,9 +14,9 @@
                         <th>Users</th>
                         <th>Name</th>
                         <th>Email</th>
-                        <th>Saldo</th>
-                        <th>Score</th>
-                        <th>Status</th>
+                        <!-- <th>Saldo</th> -->
+                        <!-- <th>Score</th> -->
+                        <!-- <th>Status</th> -->
                         <th>Create</th>
                         <th>Update</th>
                         <th>Actions</th>
@@ -41,7 +41,7 @@
                                 {{ $user->email }}
                             </div>
                         </td>
-                        <td>
+                        <!-- <td>
                             <div class="d-flex">
                                 Rp. {{ number_format($user->saldo, 0, ',', '.') }}
                             </div>
@@ -60,7 +60,7 @@
                                 <div class="badge rounded-pill bg-secondary w-100">{{ $user->status }}</div>
                                 @endif
                             </div>
-                        </td>
+                        </td> -->
                         <td>
                             <div class="d-flex">
                                 {{ $user->created_at }}
