@@ -256,7 +256,7 @@
                                 <p>Florentis adalah produsen pupuk asal Indonesia yang mengutamakan kualitas, 
                                     menawarkan formula ramah lingkungan untuk mendukung pertumbuhan tanaman secara optimal.
                                 </p>
-                                <a href="https://www.facebook.com/dimas.ramdani.10441861" target="__blank"
+                                <a href="#" target="__blank"
                                     class="social-icon si-small si-rounded si-facebook">
                                     <i class="icon-facebook"></i>
                                     <i class="icon-facebook"></i>
@@ -267,12 +267,12 @@
                                     <i class="icon-twitter"></i>
                                 </a>
 
-                                <a href="https://github.com/Dmsrmdni" class="social-icon si-small si-rounded si-github">
+                                <a href="#" class="social-icon si-small si-rounded si-github">
                                     <i class="icon-github"></i>
                                     <i class="icon-github"></i>
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/dimas-ramdani-05271324a/"
+                                <a href="#"
                                     class="social-icon si-small si-rounded si-linkedin">
                                     <i class="icon-linkedin"></i>
                                     <i class="icon-linkedin"></i>
